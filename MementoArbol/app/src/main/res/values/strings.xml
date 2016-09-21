@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Memento2</string>
+    <string name="guardar">guardar</string>
+    <string name="deshacer">deshacer</string>
+    <string name="rehacer">rehacer</string>
+    <string name="negro">negro</string>
+    <string name="Rojo">Rojo</string>
+    <string name="verde">verde</string>
+    <string name="azul">azul</string>
+    <string name="Yellow">Yellow</string>
+    <string name="MementoArbol">MementoArbol</string>
+</resources>

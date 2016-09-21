@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prototype1</string>
+    <string name="marca">marca</string>
+    <string name="color">color</string>
+    <string name="tipo">tipo</string>
+    <string name="clonar">clonar</string>
+    <string name="auto">auto</string>
+    <string name="PrototypeAuto">PrototypeAuto</string>
+    <string name="modelo">modelo</string>
+</resources>

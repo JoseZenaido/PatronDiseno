@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Singleton1</string>
+    <string name="SingletonCelular">SingletonCelular</string>
+</resources>

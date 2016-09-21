@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prototype2</string>
+    <string name="nombre">nombre</string>
+    <string name="tamanio">tamanio</string>
+    <string name="extension">extension</string>
+    <string name="clonar">clonar</string>
+    <string name="documento">documento</string>
+    <string name="Año">Año</string>
+    <string name="tamañio">tamañio</string>
+    <string name="calendario">calendario</string>
+    <string name="PrototypeCalendario">PrototypeCalendario</string>
+</resources>
